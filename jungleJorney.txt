@@ -9,3 +9,4 @@ List of elements we need:
 4. Snacks
 5. Phone
 6. A bag
+7. Medicines
