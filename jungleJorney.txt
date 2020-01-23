@@ -10,3 +10,4 @@ List of elements we need:
 5. Phone
 6. A bag
 7. Medicines
+8. A blanket
